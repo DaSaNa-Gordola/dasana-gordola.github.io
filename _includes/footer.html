@@ -1,0 +1,36 @@
+<footer class="site-footer h-card">
+    <data class="u-url" href="{{ " /" | relative_url }}"></data>
+
+    <div class="wrapper">
+
+        <h2 class="footer-heading">{{ site.title | escape }}</h2>
+
+        <div class="footer-col-wrapper">
+            <div class="footer-col">
+                <ul class="contact-list">
+                    <li class="p-name">
+                        {%- if site.author -%}
+                        {{ site.author | escape }}
+                        {%- else -%}
+                        {{ site.title | escape }}
+                        {%- endif -%}
+                    </li>
+                    {%- if site.email -%}
+                    <li><a class="u-email" href="mailto:{{ site.email }}">{{ site.email }}</a></li>
+                    {%- endif -%}
+                </ul>
+            </div>
+
+            <div class="footer-col" style="text-align: right; margin-right: 0; float: right;">
+                <ul>
+                    <a href="/en/home">English</a><br>
+                    <a href="/de/home">Deutsch</a><br>
+                    <a href="/it/home">Italiano</a><br>
+                    <a href="/fr/home">Français</a>
+                </ul>
+            </div>
+        </div>
+
+    </div>
+
+</footer>
