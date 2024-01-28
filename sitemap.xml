@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+    xmlns:xhtml="http://www.w3.org/1999/xhtml">
+
+    <url>
+        <loc>https://dasana.ch/en/home</loc>
+        <xhtml:link rel="alternate" hreflang="en" href="https://dasana.ch/en/home"/>
+        <xhtml:link rel="alternate" hreflang="de" href="https://dasana.ch/de/home"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://dasana.ch/fr/home"/>
+        <xhtml:link rel="alternate" hreflang="it" href="https://dasana.ch/it/home"/>
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://dasana.ch/en/home"/>
+    </url>
+    <url>
+        <loc>https://dasana.ch/de/home</loc>
+        <xhtml:link rel="alternate" hreflang="en" href="https://dasana.ch/en/home"/>
+        <xhtml:link rel="alternate" hreflang="de" href="https://dasana.ch/de/home"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://dasana.ch/fr/home"/>
+        <xhtml:link rel="alternate" hreflang="it" href="https://dasana.ch/it/home"/>
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://dasana.ch/en/home"/>
+    </url>
+    <url>
+        <loc>https://dasana.ch/fr/home</loc>
+        <xhtml:link rel="alternate" hreflang="en" href="https://dasana.ch/en/home"/>
+        <xhtml:link rel="alternate" hreflang="de" href="https://dasana.ch/de/home"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://dasana.ch/fr/home"/>
+        <xhtml:link rel="alternate" hreflang="it" href="https://dasana.ch/it/home"/>
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://dasana.ch/en/home"/>
+    </url>
+    <url>
+        <loc>https://dasana.ch/it/home</loc>
+        <xhtml:link rel="alternate" hreflang="en" href="https://dasana.ch/en/home"/>
+        <xhtml:link rel="alternate" hreflang="de" href="https://dasana.ch/de/home"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://dasana.ch/fr/home"/>
+        <xhtml:link rel="alternate" hreflang="it" href="https://dasana.ch/it/home"/>
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://dasana.ch/en/home"/>
+    </url>
+
+    <url>
+        <loc>https://dasana.ch/en/gallery</loc>
+        <xhtml:link rel="alternate" hreflang="en" href="https://dasana.ch/en/gallery"/>
+        <xhtml:link rel="alternate" hreflang="de" href="https://dasana.ch/de/gallery"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://dasana.ch/fr/gallery"/>
+        <xhtml:link rel="alternate" hreflang="it" href="https://dasana.ch/it/gallery"/>
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://dasana.ch/en/gallery"/>
+    </url>
+    <url>
+        <loc>https://dasana.ch/de/gallery</loc>
+        <xhtml:link rel="alternate" hreflang="en" href="https://dasana.ch/en/gallery"/>
+        <xhtml:link rel="alternate" hreflang="de" href="https://dasana.ch/de/gallery"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://dasana.ch/fr/gallery"/>
+        <xhtml:link rel="alternate" hreflang="it" href="https://dasana.ch/it/gallery"/>
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://dasana.ch/en/gallery"/>
+    </url>
+    <url>
+        <loc>https://dasana.ch/fr/gallery</loc>
+        <xhtml:link rel="alternate" hreflang="en" href="https://dasana.ch/en/gallery"/>
+        <xhtml:link rel="alternate" hreflang="de" href="https://dasana.ch/de/gallery"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://dasana.ch/fr/gallery"/>
+        <xhtml:link rel="alternate" hreflang="it" href="https://dasana.ch/it/gallery"/>
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://dasana.ch/en/gallery"/>
+    </url>
+    <url>
+        <loc>https://dasana.ch/it/gallery</loc>
+        <xhtml:link rel="alternate" hreflang="en" href="https://dasana.ch/en/gallery"/>
+        <xhtml:link rel="alternate" hreflang="de" href="https://dasana.ch/de/gallery"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://dasana.ch/fr/gallery"/>
+        <xhtml:link rel="alternate" hreflang="it" href="https://dasana.ch/it/gallery"/>
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://dasana.ch/en/gallery"/>
+    </url>
+
+    <url>
+        <loc>https://dasana.ch/en/about</loc>
+        <xhtml:link rel="alternate" hreflang="en" href="https://dasana.ch/en/about"/>
+        <xhtml:link rel="alternate" hreflang="de" href="https://dasana.ch/de/about"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://dasana.ch/fr/about"/>
+        <xhtml:link rel="alternate" hreflang="it" href="https://dasana.ch/it/about"/>
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://dasana.ch/en/about"/>
+    </url>
+    <url>
+        <loc>https://dasana.ch/de/about</loc>
+        <xhtml:link rel="alternate" hreflang="en" href="https://dasana.ch/en/about"/>
+        <xhtml:link rel="alternate" hreflang="de" href="https://dasana.ch/de/about"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://dasana.ch/fr/about"/>
+        <xhtml:link rel="alternate" hreflang="it" href="https://dasana.ch/it/about"/>
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://dasana.ch/en/about"/>
+    </url>
+    <url>
+        <loc>https://dasana.ch/fr/about</loc>
+        <xhtml:link rel="alternate" hreflang="en" href="https://dasana.ch/en/about"/>
+        <xhtml:link rel="alternate" hreflang="de" href="https://dasana.ch/de/about"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://dasana.ch/fr/about"/>
+        <xhtml:link rel="alternate" hreflang="it" href="https://dasana.ch/it/about"/>
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://dasana.ch/en/about"/>
+    </url>
+    <url>
+        <loc>https://dasana.ch/it/about</loc>
+        <xhtml:link rel="alternate" hreflang="en" href="https://dasana.ch/en/about"/>
+        <xhtml:link rel="alternate" hreflang="de" href="https://dasana.ch/de/about"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://dasana.ch/fr/about"/>
+        <xhtml:link rel="alternate" hreflang="it" href="https://dasana.ch/it/about"/>
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://dasana.ch/en/about"/>
+    </url>
+</urlset>
