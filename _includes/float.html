@@ -1,0 +1,16 @@
+<div class="row">
+    <figure class="column">
+        <img src="{{ include.left | relative_url }}" alt="{{ include.left_alt | default: 'img' }}">
+        {% if include.left_caption %}
+        <figcaption>{{ include.left_caption }}</figcaption>
+        {% endif %}
+    </figure>
+    {% if include.right %}
+    <figure class="column">
+        <img src="{{ include.right | relative_url }}" alt="{{ include.right_alt | default: 'img' }}">
+        {% if include.right_caption %}
+        <figcaption>{{ include.right_caption }}</figcaption>
+        {% endif %}
+    </figure>
+    {% endif %}
+</div>
